@@ -1,0 +1,29 @@
+_repo: Parker-s-Second-Reader--13-National-Series-of-Selections-for-Reading-Designed-For-The-Younger__16936
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16936-h/images/cover4-tb.jpg
+creator:
+  author:
+    agent_name: Parker, Richard Green
+    birthdate: 1798
+    deathdate: 1869
+    gutenberg_agent_id: '7035'
+    url: http://www.gutenberg.org/2009/agents/7035
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Recitations -- Juvenile literature'
+- !lcc 'PE'
+- !lcsh 'Readers (Elementary)'
+title: "Parker's Second Reader\r\nNational Series of Selections for Reading, Designed\
+  \ For The Younger Classes In Schools, Academies, &C."
+url: http://www.gutenberg.org/ebooks/16936
